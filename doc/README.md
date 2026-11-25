@@ -6,3 +6,4 @@ Peticions Http
 [Mapa de peticions Http (Get/Post)](maparoutes.md)
 [Diagrames de Claass](blueprint.md)
 [Llibreria BluePrint de Python](blueprint.md)
+ - [Tesr App](test.md)
